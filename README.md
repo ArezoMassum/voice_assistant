@@ -1,4 +1,6 @@
 Speech Processing Project - Voice Assistant in Turkish with Python
+
+
 In this project, we developed a voice assistant software which works in Turkish language. It has the ability of carrying out multiple tasks.
 These tasks are giving information about weather condition making Calculations with using Wolfram Alpha, giving information about time, taking notes, web browsing, getting direct information from Wikipedia, playing songs, sending a email and stablishing the interaction between the user and the operating system. 
 
